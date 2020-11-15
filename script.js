@@ -43,7 +43,13 @@ function randomColorNo() {
     + rgbToHex()
     + rgbToHex();
 return randomC;
-}
+} 
+
+
+/*//leaner solution by Paul Irish but sometimes returns 5-digit numbers, not good https://www.paulirish.com/2009/random-hex-color-code-snippets/
+function randomColorNo() {
+	return '#'+Math.floor(Math.random()*16777215).toString(16);
+} */
 
 //function to set a random gradient when the button is clicked
 function setGradientRandom() {
