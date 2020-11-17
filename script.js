@@ -2,13 +2,14 @@ var body = document.getElementById("gradient");
 var color1 = document.querySelector("#color1");
 var color2 = document.querySelector("#color2");
 var css = document.querySelector("h3");
+var wrapper =  document.querySelector(".wrapper");
 
 //create Random button
 var btn = document.createElement("button");
 var txt = document.createTextNode("Random");
 btn.className = "random";
 btn.appendChild(txt);
-body.appendChild(btn);
+wrapper.appendChild(btn);
 
 // Run the function so that the default input colors matches the background
 setGradient();
