@@ -20,7 +20,7 @@ function setGradient(){
   css.textContent = body.style.background + ";";
 }
 
-//Function that generates a random number( between 0 and 255
+//Function that generates a random number( between 0 and 255 )
 function getRandomInt(min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);
