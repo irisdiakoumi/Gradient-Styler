@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [W3 Schools HTML DOM](https://www.w3schools.com/js/js_htmldom.aspm) - This is an amazing guide which helped me understand HTML DOM Manipulation. I'd recommend it to anyone still learning this concept.
+- [W3 Schools JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp) - This is an amazing guide which helped me understand HTML DOM Manipulation. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
