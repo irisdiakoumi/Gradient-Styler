@@ -24,6 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
+![](https://user-images.githubusercontent.com/3638718/119885386-719c2900-bf3a-11eb-83f6-f1da310322b1.png)
+
 ### Links
 
 [- Live Site URL](https://irisdiakoumi.github.io/Gradient-Styler/)
