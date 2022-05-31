@@ -11,6 +11,7 @@ btn.className = "random";
 btn.appendChild(txt);
 wrapper.appendChild(btn);
 
+
 // Run the function so that the default input colors matches the background
 setGradient();
 
